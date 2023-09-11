@@ -11,3 +11,5 @@ Clone the reopsitory
 git clone git@github.com:underwater-leisure/underwater_drone_ros.git
 ```
 And then follow the each package setup
+## [diver_pose_ros_dummy](https://github.com/underwater-leisure/underwater_drone_ros/blob/main/diver_pose_ros_dummy/README.md)
+## [flir_camera_driver](https://jenti.notion.site/Setup-dd6cb90d4b9347bf996f326bbc7d6370?pvs=4)
